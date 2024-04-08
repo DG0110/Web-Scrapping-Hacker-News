@@ -1,4 +1,4 @@
-# Web-Scrapping-Hacker-News   ![image](https://github.com/DG0110/Web-Scrapping-Hacker-News/assets/112652526/06966c75-f159-4f91-9019-ac9a431e0a0e)
+# Web-Scrapping-Hacker-News   
 
 This is a Python-based web scraping project leveraging the BeautifulSoup library to extract data from websites efficiently. BeautifulSoup provides a powerful framework for parsing HTML and XML documents, making it ideal for navigating and scraping web pages with ease.
 
